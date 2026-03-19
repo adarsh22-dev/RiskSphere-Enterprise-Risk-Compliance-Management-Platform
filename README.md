@@ -2,7 +2,7 @@ RiskSphere - Enterprise Risk & Compliance Management Platform
 
 RiskSphere is a production-grade GRC (Governance, Risk, and Compliance) platform designed for large-scale organizations, financial institutions, and consulting firms. It provides a centralized hub for managing organizational risks, tracking compliance across multiple frameworks, and monitoring incidents in real-time.
 
-<img src="./src/risksphere_architecture_fixed.svg" alt="Architecture Diagram" width="800"/>
+<img src="./src/risksphere_architecture_fixed.svg" alt="Architecture Diagram" width="stretch"/>
 
 Key Features
 
